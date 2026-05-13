@@ -9,12 +9,10 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1.Load the dataset and separate input and output variables.
-
 2.Split the data into training and testing sets.
-
 3.Train the linear regression model using the training data.
-
 4.Predict the output for the test data and evaluate the results.
+
 ## Program:
 ```
 /*
